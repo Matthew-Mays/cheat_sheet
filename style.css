@@ -62,3 +62,16 @@ caption {
     font-size: 2rem;
     font-weight: bold;
 }
+
+thead, tfoot {
+    background-color: lightsteelblue;
+}
+
+tbody {
+    background-color: lavender;
+}
+
+code {
+    font-family: 'Roboto Slab', monospace;
+    background-color: hsl(339, 70%, 70%);
+}
